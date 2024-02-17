@@ -1,3 +1,4 @@
+#About
 An Inventory Management System in C is a console application that allows users to manage and maintain a database of different products in a store's inventory. The system is designed to handle basic operations like adding new items, updating existing items, viewing items, and deleting items from the inventory.
 
 Here's a brief overview of the functionalities:
